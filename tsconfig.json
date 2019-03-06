@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["es6", "dom"],
+        "rootDir": ".",
+        "module": "ES6",
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "downlevelIteration" : true,
+        "skipLibCheck": true,
+        "moduleResolution": "node"
+    },
+    "files":[
+        "scripts/Name.ts",
+        "scripts/Student.ts",
+        "scripts/Program.ts",
+    ]
+}

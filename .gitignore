@@ -1,0 +1,10 @@
+bin/
+obj/
+obj_ts/
+.vs/
+build/
+node_modules/
+assets/*.js
+assets/*.js.map
+.vscode/
+*.user
