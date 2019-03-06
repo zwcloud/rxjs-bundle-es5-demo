@@ -1,3 +1,4 @@
+require("./Name")
 class Student {
     public Name: Name;
     public Number: number;
